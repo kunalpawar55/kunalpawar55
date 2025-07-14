@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal Pawar</h1>
-<h3 align="center">🚀 Full Stack Developer | Java & React Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Java Developer | Java & React Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F6A400&center=true&vCenter=true&width=450&lines=Code+with+purpose.+Design+with+passion." alt="Typing SVG" />
