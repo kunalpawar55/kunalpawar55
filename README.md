@@ -4,9 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F6A400&center=true&vCenter=true&width=450&lines=Code+with+purpose.+Design+with+passion." alt="Typing SVG" />
 </p>
-<marquee behavior="scroll" direction="left">
-Code with purpose. Design with passion.
-</marquee>
+
 ---
 
 ### 👨‍💻 About Me
